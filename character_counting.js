@@ -14,9 +14,5 @@ function countLetters(str) {
 
 console.log(countLetters(args));
 
-//Input: A String
-//Output:   An object with:
-//        All the unique characters that exist in a string
-//        How many instances of each letter were found in the string
-//        Do not include spaces
+
 
